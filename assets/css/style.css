@@ -1,0 +1,72 @@
+.customer {
+    position: relative;
+    top: 5rem;
+    left: 2rem;
+}
+
+.opinion {
+    background-color: #6CCCE7;
+    color: white;
+}
+
+.opinion h3 {
+    color: #011A95;
+}
+
+.gray {
+background-color:#E6E6E6 ;
+}
+
+.cardprice {
+    border: none;
+  }
+  
+  .cardprice .card-header {
+    background-color: #011a95;
+    color: white;
+  }
+  
+  .cardprice .card-body {
+    background-color: white;
+    color: #707070;
+    border-left: 1mm solid #707070;
+    border-right: 1mm solid #707070;
+  }
+  
+  .cardprice .card-body li {
+    font-size: 1.5em;
+    border-color: #707070;
+  }
+  
+  .cardprice .card-footer {
+    background-color: white;
+    color: #707070;
+    border: 1mm solid #707070;
+    border-top: none;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 3rem;
+  }
+  
+  .cardprice .card-footer button {
+    position: relative;
+    bottom: -44px;
+  }
+  
+  .cardprice .card-footer button svg {
+    height: auto;
+    width: 45px;
+    background-color: white;
+    color: #707070;
+  }
+  
+  .services .button button {
+    background-color: #011a95;
+    color: white;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 1.5em;
+    margin-top: 1em;
+  }
+  
+  
