@@ -87,3 +87,9 @@ background-color:#E6E6E6 ;
     font-size: 1.5em;
     margin-top: 1em;
   }
+  .navbar-nav .nav-item .nav-link {
+    color: #011A95;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
