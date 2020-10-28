@@ -1,0 +1,14 @@
+.customer {
+    position: relative;
+    top: 5rem;
+    left: 2rem;
+}
+
+.opinion {
+    background-color: #6CCCE7;
+    color: white;
+}
+
+.opinion h3 {
+    color: #011A95;
+}
