@@ -1,7 +1,7 @@
 .customer {
     position: relative;
-    top: 5rem;
-    left: 2rem;
+    top: 4rem;
+    left: 3rem;
 }
 
 .opinion {
@@ -60,7 +60,7 @@ background-color:#E6E6E6 ;
     color: #707070;
   }
   
-  .services .button button {
+  .services .button a {
     background-color: #011a95;
     color: white;
     border: none;
@@ -68,5 +68,22 @@ background-color:#E6E6E6 ;
     font-size: 1.5em;
     margin-top: 1em;
   }
+
+  .rdv {
+    border: none;
+    padding: 0;
+  }
+
+  .pascontente {
+      background-color: #DC3545;
+      color: white;
+  }
   
-  
+  .button1 {
+    background-color: #011a95;
+    color: white;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 1.5em;
+    margin-top: 1em;
+  }
