@@ -43,7 +43,7 @@
 }
 
 .card {
-  background-color: transparent;²
+  background-color: transparent;
 }
 .cardprice .card-footer {
   background-color: white;
@@ -70,7 +70,7 @@
 }
 
 .container .services {
-  background-color: #6ccce7;
+  background-color: #dbf8fb;
 }
 
 .services .button a {
@@ -138,4 +138,8 @@
 
 li:hover {
   background-color: #6ccce7;
+}
+
+.contactcolor {
+  background-color: #dbf8fb;
 }
